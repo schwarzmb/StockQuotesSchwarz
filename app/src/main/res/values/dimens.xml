@@ -3,5 +3,9 @@
     <dimen name="textBox">150dp</dimen>
     <dimen name="leftPad">25dp</dimen>
     <dimen name="topPad">10dp</dimen>
+    <dimen name="eighteen">18dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="fourfourseven">447dp</dimen>
+    <dimen name="seventyTwo">72dp</dimen>
 
 </resources>
