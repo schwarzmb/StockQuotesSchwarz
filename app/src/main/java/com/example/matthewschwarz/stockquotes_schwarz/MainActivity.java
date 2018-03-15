@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         stockPrice.setText(savedInstanceState.getString("stockPrice"));
         stockTime.setText(savedInstanceState.getString("stockTime"));
         stockChange.setText(savedInstanceState.getString("stockChange"));
-        stockRange.setText(savedInstanceState.getString("stockChange"));
+        stockRange.setText(savedInstanceState.getString("stockRange"));
         stockInput.setText(savedInstanceState.getString("editText"));
     }
 }

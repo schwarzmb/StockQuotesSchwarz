@@ -36,7 +36,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <TableRow android:paddingTop="@dimen/topPad">
+        <TableRow>
             <TextView
                 android:id="@+id/symbolStock"
                 android:layout_width="wrap_content"
@@ -46,10 +46,12 @@
             <TextView
                 android:id="@+id/symbolShow"
                 android:layout_width="@dimen/textBox"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:textColor="@color/yellow"/>
         </TableRow>
 
-        <TableRow android:paddingTop="@dimen/topPad">
+        <TableRow>
             <TextView
                 android:id="@+id/nameStock"
                 android:layout_width="wrap_content"
@@ -59,10 +61,12 @@
             <TextView
                 android:id="@+id/nameShow"
                 android:layout_width="@dimen/textBox"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:textColor="@color/yellow"/>
         </TableRow>
 
-        <TableRow android:paddingTop="@dimen/topPad">
+        <TableRow>
             <TextView
                 android:id="@+id/priceStock"
                 android:layout_width="wrap_content"
@@ -72,10 +76,12 @@
             <TextView
                 android:id="@+id/priceShow"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:textColor="@color/yellow"/>
         </TableRow>
 
-        <TableRow android:paddingTop="@dimen/topPad">
+        <TableRow>
             <TextView
                 android:id="@+id/timeStock"
                 android:layout_width="wrap_content"
@@ -85,10 +91,12 @@
             <TextView
                 android:id="@+id/timeShow"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:textColor="@color/yellow"/>
         </TableRow>
 
-        <TableRow android:paddingTop="@dimen/topPad">
+        <TableRow>
             <TextView
                 android:id="@+id/changeStock"
                 android:layout_width="wrap_content"
@@ -98,10 +106,12 @@
             <TextView
                 android:id="@+id/changeShow"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:textColor="@color/yellow"/>
         </TableRow>
 
-        <TableRow android:paddingTop="@dimen/topPad">
+        <TableRow>
             <TextView
                 android:id="@+id/rangeStock"
                 android:layout_width="wrap_content"
@@ -111,7 +121,9 @@
             <TextView
                 android:id="@+id/rangeShow"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                android:textColor="@color/yellow"/>
         </TableRow>
 
 
