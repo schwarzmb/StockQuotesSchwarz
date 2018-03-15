@@ -1,3 +1,5 @@
+package com.example.matthewschwarz.stockquotes_schwarz;
+
 import android.util.Log;
 
 import org.json.JSONObject;

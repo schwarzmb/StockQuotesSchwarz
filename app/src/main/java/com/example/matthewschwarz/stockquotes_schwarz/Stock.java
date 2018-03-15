@@ -1,8 +1,16 @@
-import java.io.Serializable;
+package com.example.matthewschwarz.stockquotes_schwarz;
+
 import android.util.Log;
+
 import org.json.JSONObject;
-import java.net.*;
-import java.io.*;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.Serializable;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLConnection;
 
 /**
  * Created by matthewschwarz on 3/14/18.

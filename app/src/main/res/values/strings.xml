@@ -7,4 +7,5 @@
     <string name="stockTime">Last Trade Time:</string>
     <string name="stockChange">Change:</string>
     <string name="stockRange">52 Week Range:</string>
+    <string name="nullStockError">Stock was unable to be loaded</string>
 </resources>
