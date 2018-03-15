@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textBox">150dp</dimen>
+    <dimen name="leftPad">25dp</dimen>
+    <dimen name="topPad">10dp</dimen>
+
+</resources>

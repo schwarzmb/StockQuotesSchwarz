@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">StockQuotes-Schwarz</string>
+    <string name="enterStock">Enter Stock Symbol:</string>
+    <string name="stockSymbol">Symbol:</string>
+    <string name="stockName">Name:</string>
+    <string name="stockPrice">Last Trade Price:</string>
+    <string name="stockTime">Last Trade Time:</string>
+    <string name="stockChange">Change:</string>
+    <string name="stockRange">52 Week Range:</string>
 </resources>
